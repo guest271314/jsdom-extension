@@ -1,0 +1,11 @@
+{
+  "name": "JSDOM in MV3 ServiceWorker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {},
+  "author": "guest271314"
+}
